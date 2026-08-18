@@ -1,0 +1,15 @@
+langchain 
+langchain-chroma 
+langchain-text-splitters 
+chromadb
+pandas
+pypdf
+langchain-community
+langchain-classic
+langchain-nvidia-ai-endpoints
+python-dotenv
+rank-bm25
+streamlit
+PyMuPDF
+pytesseract
+Pillow
