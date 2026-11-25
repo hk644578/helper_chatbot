@@ -21,5 +21,5 @@ PDF_FOLDER = "web_data"
 CHROMA_PATH = "chroma_db"
 COLLECTION_NAME = "college_admission"
 
-LLM_MODEL = "nvidia/nemotron-3-super-120b-a12b"
+LLM_MODEL = "nvidia/nemotron-3.5-super-vl-120b-a12b"
 EMBEDDING_MODEL = "nvidia/nv-embedqa-e5-v5"
