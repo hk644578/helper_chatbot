@@ -22,4 +22,4 @@ CHROMA_PATH = "chroma_db"
 COLLECTION_NAME = "college_admission"
 
 LLM_MODEL = "nvidia/nemotron-3.5-super-vl-120b-a12b"
-EMBEDDING_MODEL = "nvidia/nv-embedqa-e5-v5"
+EMBEDDING_MODEL = "nvidia/nemotron-3.5-embed-8b"
