@@ -1,7 +1,7 @@
 import os
 import io
 
-import fitz
+import pymupdf
 import pytesseract
 
 from PIL import Image
